@@ -1,6 +1,10 @@
-shorten github.com links to git.io links.
+# shorten github.com links to git.io links.
 
-To use:
+## one-line installer
+
+` curl -L https://raw.github.com/usmanity/git-shortener/master/install.sh | sh `
+
+## or use it from within the directory
 
 `./shorten.sh <github.com url>`
 
