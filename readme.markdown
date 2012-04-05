@@ -1,6 +1,6 @@
 # shorten github.com links to git.io links.
 ## about
-This small script can help you short github.com URLs to git.io URLs. 
+This small script can help you shorten github.com URLs to git.io URLs. 
 
 ```
 .
