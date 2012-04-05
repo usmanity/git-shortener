@@ -4,7 +4,7 @@ This small script can help you shorten github.com URLs to git.io URLs.
 
 ```
 .
-├── install.sh      <---- installs aliasing
+├── install.sh      <---- one-liner install, adds aliases 
 ├── readme.markdown 
 ├── shorten.sh      <---- shortens URLs
 ├── split.rb        <---- parses result from shorten.sh
@@ -21,6 +21,8 @@ pasteboard/clipboard.
 ### one-line installer
 
 ` curl -L https://raw.github.com/usmanity/git-shortener/master/install.sh | sh `
+
+This will clone this repo and add `shorten` and `surl` as aliases inside your .bashrc or .zshrc files. 
 
 ### or use it from within the directory
 
