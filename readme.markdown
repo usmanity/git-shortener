@@ -1,5 +1,4 @@
 # shorten github.com links to git.io links.
-* * *
 ## about
 This small script can help you short github.com URLs to git.io URLs. 
 
@@ -17,7 +16,7 @@ a curl request to github. `split.rb` chops up the result and gives you
 back the shortened URL. On OSX, the URL is automatically copied to your
 pasteboard/clipboard.
 
-
+* * *
 
 ### one-line installer
 
