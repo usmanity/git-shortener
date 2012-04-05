@@ -4,11 +4,11 @@ This small script can help you short github.com URLs to git.io URLs.
 
 ```
 .
-├── install.sh
-├── readme.markdown
-├── shorten.sh
-├── split.rb
-└── surl.sh
+├── install.sh      <---- installs aliasing
+├── readme.markdown 
+├── shorten.sh      <---- shortens URLs
+├── split.rb        <---- parses result from shorten.sh
+└── surl.sh         <---- shortens URLs with custom name
 
 ```
 `shorten.sh` and `surl.sh` both shorten the URL by first sending it as
