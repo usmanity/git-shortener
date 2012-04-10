@@ -25,3 +25,4 @@ else
   echo ".\n.\nlooks like you don't have .zshrc or .bashrc\n."
   echo "please alias it yourself"
 fi
+cd -
